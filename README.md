@@ -58,4 +58,4 @@ This PyTorch project is tailored for a personal dataset collected by R. Zhao as 
 Code for other models and public benchmarks will be avaliable soon.
 # Acknowledgment
 
-This project is heavily built on [SASRec.pytorch]([https://github.com/pmixer/SASRec.pytorch]). Thanks [Huang Zan](https://github.com/pmixer) for his great work.
+This project is heavily built on [SASRec_pytorch]([https://github.com/pmixer/SASRec.pytorch]). Thanks [Huang Zan](https://github.com/pmixer) for his great work.
